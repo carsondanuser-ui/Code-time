@@ -2,16 +2,29 @@
   "format_version": 2,
   "header": {
     "name": "For The Taken King - Behavior Pack",
-    "description": "Custom Minecraft Bedrock content",
+    "description": "Custom Minecraft cosmetic content",
     "uuid": "8d2c4a61-7f35-4e91-a620-3b9f5c8d1742",
     "version": [1, 0, 0],
-    "min_engine_version": [26, 0, 0]
+    "min_engine_version": [1, 26, 50]
   },
   "modules": [
     {
       "type": "data",
       "uuid": "b4e7d291-6c83-42fa-9d15-2e8a7c5b3106",
       "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "c7f193a2-5d64-48b1-ae20-9f6382d41750",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.10.0"
     }
   ]
 }
