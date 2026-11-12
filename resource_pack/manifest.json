@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "For The Taken King - Resource Pack",
+    "description": "Custom cosmetic textures and models",
+    "uuid": "e6a42b81-9d73-4f20-b5c8-1a6e93d74250",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 50]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a3d719e5-2b64-48c0-9f31-7e5a2d86b410",
+      "version": [1, 0, 0]
+    }
+  ]
+}
