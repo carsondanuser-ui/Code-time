@@ -23,3 +23,19 @@ A Minecraft Bedrock Add-On.
 - Blockbench
 - bridge.
 - JavaScript
+
+
+## Repository Management
+
+### Backup Information
+- Main branch: main
+- Backup branch: backup/nov-15-2026
+
+### Development Tools
+- GitHub: Project storage and version history
+- Blockbench: 3D project editing
+
+### Maintenance
+- Keep original project files backed up.
+- Use clear commit messages.
+- Create a backup before major changes.
